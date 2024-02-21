@@ -1,16 +1,16 @@
-# privacypolicy
+## privacypolicy
 
-Data Collection and Use
+#Data Collection and Use
 No data collected
 
-Log Data
+#Log Data
 No data logged
 
-Communications
+#Communications
 Not gonna communicate with users
 
-Cookies
+#Cookies
 No cookies used
 
-Security
+#Security
 No personal data collected.
